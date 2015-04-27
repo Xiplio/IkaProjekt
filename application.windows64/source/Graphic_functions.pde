@@ -28,7 +28,7 @@ public void link_off()
 
 public void link_hel()
 {
-  link("http://http://helheim.monalliance.com/");
+  link("http://helheim.monalliance.com/");
 }
 
 public void link_iw()
