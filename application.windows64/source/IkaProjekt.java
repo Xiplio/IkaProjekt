@@ -1046,22 +1046,22 @@ public void Exit()
 
 public void link_ig()
 {
-  link("http://www.google.com");
+  link("http://fr.ikariam.gameforge.com");
 }
 
 public void link_off()
 {
-  link("http://www.google.com");
+  link("http://board.fr.ikariam.gameforge.com/");
 }
 
 public void link_hel()
 {
-  link("http://www.google.com");
+  link("http://http://helheim.monalliance.com/");
 }
 
 public void link_iw()
 {
-  link("http://www.google.com");
+  link("http://fr.ika-world.com/");
 }
 
 //-------------------------------------------------------------------------------------------------------------------
